@@ -9,7 +9,7 @@ Unity tutorial in Danish witch makes a 2D platform game
 cfp_start_pakke.unitypackage (used in the tutorial)  
 cfp_final.zip (full solution for the game)
 
-* cfp_game.zip  
+* cpf_game.zip  
 Playable game with extra features.   
 Just unzip the file and start the CPF_platform_game.exe
 
