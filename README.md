@@ -1,13 +1,12 @@
 # Unity
-Unity guides and games  
-All the documentation is in Danish
+Forløb brugt til Coding Pirates
 
-File overview:
+Fil overblik:
 
 * unity-intro.pdf  
-Unity tutorial in Danish which makes a 2D platform game  
-cfp_start_pakke.unitypackage (used in the tutorial)  
-cfp_final.zip (full solution for the tutorial)
+Unity tutorial på dansk som beskriver et 2D platform spil  
+cfp_start_pakke.unitypackage (brugt i tutorial)  
+cfp_final.zip (fuld løsning)
 
 * cpf_game.zip  
 Playable game with extra features.   
