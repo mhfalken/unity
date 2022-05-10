@@ -12,3 +12,7 @@ cfp_final.zip (fuld løsning)
 Playable game with extra features.   
 Just unzip the file and start the CPF_platform_game.exe
 
+* basket_guide.pdf  
+Unity tutorial på dansk som beskriver hvordan man laver et simpelt 2D basketball spil  
+basket_start_pakke.unitypackage (brugt i tutorial)  
+basket_final.zip (fuld løsning)
