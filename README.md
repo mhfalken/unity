@@ -17,3 +17,6 @@ Just unzip the file and start the CPF_platform_game.exe
 Unity tutorial på dansk som beskriver hvordan man laver et simpelt 2D basketball spil  
 basket_start_pakke.unitypackage (brugt i tutorial)  
 basket_final.zip (fuld løsning)
+
+
+https://discord.gg/Qc67b6ZQ5V
