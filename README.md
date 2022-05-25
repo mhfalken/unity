@@ -7,7 +7,7 @@ Fil overblik:
 Unity tutorial på dansk som beskriver et 2D platform spil  
 cfp_start_pakke.unitypackage (brugt i tutorial)  
 cfp_final.zip (fuld løsning)  
-Playable demo with extra features: https://play.unity.com/mg/other/webgl-builds-196616
+Spilbar demo med extra features: https://play.unity.com/mg/other/webgl-builds-196616
 
 * basket_guide.pdf  
 Unity tutorial på dansk som beskriver hvordan man laver et simpelt 2D basketball spil  
