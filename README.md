@@ -4,6 +4,7 @@ Forløb brugt til Coding Pirates
 Fil overblik:
 
 * unity-intro.pdf [5-30 timer]  
+<img src="images/unity-intro.png" width="200">
 Unity guide på dansk som beskriver hvordan man laver et 2D platform spil. Kræver ingen kendskab til Unity.  
 cfp_start_pakke.unitypackage (brugt i guiden)  
 cfp_final.zip (fuld løsning)  
