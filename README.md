@@ -16,6 +16,7 @@ basket_start_pakke.unitypackage (brugt i guiden)
 basket_final.zip (fuld løsning)
 
 * tower_defense_guide.pdf [5-20 timer]  
+<img src="images/tower_defense_guide.png" width="200">
 Unity guide på dansk som beskriver hvordan man laver et simpelt Tower Defense spil.
 Det er en fordusætning at man har lidt kendskab til Unity som svarer til at man har lavet unity-intro spillet.  
 Man skal selv skrive lidt kode i C#.  
