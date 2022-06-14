@@ -11,6 +11,8 @@ Unity guide på dansk som beskriver hvordan man laver et 2D platform spil. Kræv
 Spilbar demo med extra features: https://play.unity.com/mg/other/webgl-builds-196616
 
 ## basket_guide.pdf [1-2 timer]  
+<img src="images/basket_guide.png" width="200">
+
 Unity tutorial på dansk som beskriver hvordan man laver et simpelt 2D basketball spil. Kræver ingen kendskab til Unity.  
 * basket_start_pakke.unitypackage (brugt i guiden)  
 * basket_final.zip (fuld løsning)
