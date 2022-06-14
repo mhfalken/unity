@@ -31,8 +31,8 @@ Spilbar version: https://play.unity.com/mg/other/webgl-builds-198375
 
 Unity guide på dansk som beskriver hvordan man laver et simpelt 3D FPS spil.  
 Det er en forudsætning at man kan skrive noget C# kode, kan finde rundt i Unity GUI'en og er klar til at kæmpe lidt for at få det til at virke.  
-Alle filer som skal bruges skal hentes fra nettet - beskrivet i dokumentet.  
-Spilbar version: TBD
+Alle filer som skal bruges skal hentes fra nettet (beskrivet i dokumentet).  
+Spilbar version: https://play.unity.com/mg/other/webgl-builds-209446
   
 ---    
 https://discord.gg/Qc67b6ZQ5V
