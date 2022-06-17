@@ -26,7 +26,7 @@ Det er en forudsætning at man har lidt kendskab til Unity som svarer til at man
 
 Spilbar version: https://play.unity.com/mg/other/webgl-builds-198375  
 
-## fps_guide.pdf (kommer snart) [5-? timer]  
+## fps_guide.pdf [5-? timer]  
 <img src="images/fps_guide.png" width="200">
 
 Unity guide på dansk som beskriver hvordan man laver et simpelt 3D FPS spil.  
