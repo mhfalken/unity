@@ -1,12 +1,13 @@
 # Unity
 Forløb brugt til Coding Pirates
 
-## unity-intro.pdf [5-30 timer]  
-<img src="images/unity-intro.png" width="200">  
+## 2dplatform_guide.pdf [5-20 timer]  
+<img src="images/2dplatform_guide.png" width="200">  
 
 Unity guide på dansk som beskriver hvordan man laver et 2D platform spil. Kræver ingen kendskab til Unity.  
-* cfp_start_pakke.unitypackage (brugt i guiden)  
-* cfp_final.zip (fuld løsning)  
+Guiden indeholder også en installationsvejledning og en lille reference manual.
+* 2dplatform.unitypackage (brugt i guiden)  
+* 2dplatform_final.zip (fuld løsning)  
 
 Spilbar demo med extra features: https://play.unity.com/mg/other/webgl-builds-196616
 
@@ -17,7 +18,7 @@ Unity tutorial på dansk som beskriver hvordan man laver et simpelt 2D basketbal
 * basket_start_pakke.unitypackage (brugt i guiden)  
 * basket_final.zip (fuld løsning)
 
-## tower_defense_guide.pdf [5-20 timer]  
+## tower_defense_guide.pdf [5-15 timer]  
 <img src="images/tower_defense_guide.png" width="200">
 
 Unity guide på dansk som beskriver hvordan man laver et simpelt Tower Defense spil.
